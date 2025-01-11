@@ -1,7 +1,7 @@
 export const obtenerDatos = async (title,) => {
   try {
     const response = await fetch(
-      `http://www.omdbapi.com/?apikey=5c3e55b&t=${title}`
+      `https://www.omdbapi.com/?apikey=5c3e55b&t=${title}`
     );
     if (!response.ok) throw new Error("Error en la peticion.");
 
