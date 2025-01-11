@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="./images/favicon.ico" type="image/x-icon">
+    <title>Movie Search App</title>
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/styles.css">
+    <script type="module" src="./js/main.js" defer></script>
+</head>
+
+<body>
+    <main class="main">
+        <section class="hero">
+        </section>
+        <section class="search-container">
+            <header class="search-container__header">
+                <img class="search-container__logo" src="./images/OMDb-logo.svg" alt="omdb logo">
+            </header>
+            <div class="search-container__bar">
+                <div class="search-bar">
+                    <button class="search-bar__icon" id="search-button">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <circle cx="11" cy="11" r="7" stroke="#677489" stroke-width="2" />
+                            <path
+                                d="M11 8C10.606 8 10.2159 8.0776 9.85195 8.22836C9.48797 8.37913 9.15726 8.6001 8.87868 8.87868C8.6001 9.15726 8.37913 9.48797 8.22836 9.85195C8.0776 10.2159 8 10.606 8 11"
+                                stroke="#677489" stroke-width="2" stroke-linecap="round" />
+                            <path d="M20 20L17 17" stroke="#677489" stroke-width="2" stroke-linecap="round" />
+                        </svg>
+                    </button>
+                    <div class="search-bar__input">
+                        <input class="search-bar__field" type="text" name="movie-name" id="movie-name"
+                            placeholder="Search movie" autocomplete="off" required>
+                        <div id="autocomplete-list" class="autocomplete-items"></div>
+                    </div>
+                </div>
+            </div>
+            <div id="card-container">
+
+            </div>
+        </section>
+    </main>
+
+</body>
+
+</html>
