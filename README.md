@@ -17,7 +17,7 @@ Esta aplicación permite a los usuarios buscar películas por título y obtener 
 
 ![Captura del Proyecto](./images/desktop-preview.png)
 
-Puedes ver la versión demo en vivo aquí: [Random Quote](https://random-quote-coral-nine.vercel.app/)
+Puedes ver la versión demo en vivo aquí: [Movie Search App](https://movie-search-app-ten-woad.vercel.app/)
 
 ## Tecnologías Utilizadas
 
