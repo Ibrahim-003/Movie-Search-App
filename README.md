@@ -30,7 +30,7 @@ Puedes ver la versión demo en vivo aquí: [Movie Search App](https://movie-sear
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/movie-search-app.git
+    git clone https://github.com/Ibrahim-003/movie-search-app.git
     ```
 
 2. Navega al directorio del proyecto:
@@ -47,7 +47,21 @@ Puedes ver la versión demo en vivo aquí: [Movie Search App](https://movie-sear
 3. La información de la película se mostrará en la página.
 
 ## Estructura del Proyecto
-movie-search-app/ │ ├── css/ │ ├── reset.css │ └── styles.css │ ├── images/ │ └── OMDb-logo.svg │ ├── js/ │ ├── data.js │ ├── eventListeners.js │ ├── main.js │ ├── movieCard.js │ └── notFound.js │ ├── index.html └── README.md
+```movie-search-app/
+├── css/
+│ ├── reset.css
+│ │── styles.css
+├── images/
+│ └── OMDb-logo.svg
+├── js/
+│ ├── data.js
+│ ├── eventListeners.js
+│ ├── main.js
+│ ├── movieCard.js
+│ └── notFound.js
+├── index.html
+└── README.md
+```
 
 ## Licencia 📄
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
