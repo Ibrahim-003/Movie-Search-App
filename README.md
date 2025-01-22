@@ -63,8 +63,5 @@ Puedes ver la versión demo en vivo aquí: [Movie Search App](https://movie-sear
 └── README.md
 ```
 
-## Licencia 📄
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
 ## Autor 👨‍💻
 Desarrollado por **[Ibrahim Almeyda](https://github.com/Ibrahim-003)**.
