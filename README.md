@@ -15,7 +15,7 @@ Esta aplicación permite a los usuarios buscar películas por título y obtener 
 
 ## Vista Previa
 
-![Captura del Proyecto](./images/desktop-preview.png)
+![Captura del Proyecto](./src/assets/images/desktop-preview.webp)
 
 Puedes ver la versión demo en vivo aquí: [Movie Search App](https://movie-search-app-ten-woad.vercel.app/)
 
